@@ -2,7 +2,6 @@
 
 import numpy as np
 
-
 def apply_relu(x):
     return np.maximum(0,x)
 
